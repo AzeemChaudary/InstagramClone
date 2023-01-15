@@ -1,0 +1,307 @@
+
+body{
+  overflow-x: hidden;
+}
+.InstaLogo{
+  width: 200px;
+  height: 100px;
+}
+.MessengerIcon{
+  width: 50px;
+  height: 80px;
+}
+.container{
+  border: 1px solid black;
+}
+.ProfilePic{
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+}
+
+.imgcol .postImage{
+  padding-left: 0;
+  padding-right: 0;
+}
+.postcontainer{
+  padding-left: 0;
+  padding-right: 0;
+}
+.profileimg{
+  padding-left: 0;
+  padding-right: 0;
+}
+.msgrow{
+  background-color: #fafafa;
+}
+.msg{
+  border: 1px solid black;
+}
+.search{
+  background-color: #eeeeee;
+}
+.has-search .form-control {
+  padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: #aaa;
+}
+.form-control-feedback img{
+  position:absolute;
+  top:10px;
+}
+.imgmsg{
+  border-radius: 50%;
+}
+.chatimg{
+  width: 40px;
+  height: 40px;
+}
+.chattxt{
+  background-color: #aaa;
+}
+.searchmsg{
+  width: 100%;
+  border-radius:80px 80px 80px 80px;
+    padding:5px;
+}
+.searchmsg input{
+  margin-top: 10px;
+  padding:12px 5px 12px 65px;
+  border-radius:50px;
+  background-color:#f3efef;
+  border:1px solid #000;
+}
+.Msgimg{
+  width:26px;
+    position:absolute;
+    top:37%;
+    left:2.8%;
+}
+.Commentsbtn{
+  /* position: absolute 🤛 ; */
+  padding-left: 0;
+  padding: 0;
+  background-color: #fff;
+  
+}
+
+
+
+.container{
+  background-color: #fff;
+}
+.toborder {
+  border:1px solid black;
+}
+.messneger-i-cent{
+  margin:auto;
+  width: 100%;
+}
+.messneger-i-cent img{
+  display: inline-block;
+}
+.round-prof-img img{
+  border-radius: 50%;
+}
+.lets-comm-pic img{
+  border-radius: 50%;
+  width:40px;
+  height: 40px;
+  position:absolute;
+  top:30%;
+  left:10%;
+}
+.the-second-header-para{
+  text-align:left;
+}.the-big-image img{
+  width: 100%;
+}
+.for-row-marg{
+  margin-left: 0;
+  margin-right: 0;
+}
+.for-col-padding{
+  padding-left: 0;
+  padding-right: 0;
+}
+.for-mycont{
+  padding-left: 0;
+  padding-right: 0;
+}
+.undo-cont-prop{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.the-ost-styl{
+  position:absolute;
+  width:10%;
+  top:2%;
+  right:2%;
+}
+.bg-messag{
+  background-color:#F7F7F7 ;
+  border-bottom: 1px solid #D6E4E5;
+}
+/*
+search bar
+*/
+.has-search .form-control {
+  padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: #aaa;
+}
+.form-control-feedback img{
+  position:absolute;
+  top:10px;
+}
+.message-left{
+  width: 100%;
+  border-radius:15px 15px  15px 15px;
+  background-color: #D6E4E5;
+}
+.message-left p{
+  padding:15px;
+}
+.to-style-your-messg{
+  width: 100%;
+  background-color: #B2B2B2;
+  border-radius:80px 80px 0px 80px;
+}
+.to-style-your-messg p{
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.to-mess-screen-one-to img{
+  border-radius: 50%;
+  position:absolute;
+  width:30px;
+  height: 30px;
+}
+.img-to-one-t-one{
+  width: 30px;
+  height: 30px;
+  border-radius:50%;
+  position:absolute;
+  bottom:15%;
+  left:-2%;
+}
+.last-messg-scre-n{
+  width: 100%;
+  border-radius:80px 80px 80px 80px;
+  padding:5px;
+}
+.last-messg-scre-n input{
+  margin-top: 10px;
+  padding:12px 5px 12px 65px;
+  border-radius:50px;
+  background-color:#222222;
+  border:1px solid #000;
+}
+.to-last-img-camera{
+  width:35px;
+  position:absolute;
+  top:32%;
+  left:2.3%;
+}
+.to-last-img-search{
+  width:26px;
+  position:absolute;
+  top:37%;
+  left:2.8%;
+}
+.thelis{
+  padding-left: 0;
+}
+.thelis-to li{
+  display: inline-block;
+  margin-left: 40px;
+  text-align: center;
+  margin-right: 40px;
+  margin-top: 30px;
+}
+.thelis-to li p{
+  margin:0;
+  padding: 0;
+  color: #000;
+}
+.thelis li{
+  display:inline-block;
+}
+.thelis li img{
+  padding-left: 5px;
+  width:25px;
+}
+.img-fluid-one{
+  width:65px;
+  height:65px;
+}
+.thelink{
+  color:#000;
+}
+.thelink:hover{
+  color:#000;
+  text-decoration: none;
+}
+.the-post-list{
+  width:100%;
+  padding-left:0;
+  margin-bottom: 0;
+}
+.the-post-list li{
+  display: inline-block;
+  margin-left: 15px;
+  margin-right: 10px;
+
+}
+.profile-blue{
+  width:100%;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+.profile-blue li{
+  display:inline-block;
+  padding-right:5px;
+}
+.profile-blue li img{
+  width:15px;
+  margin-bottom:4px;
+}
+.view-comment-but{
+  margin-left: 1%;
+  padding: 0;
+  background-color: #fff;
+}
+.the-p-in-comm p{
+  margin-bottom: 0;
+}
+.the-p-in-comm h6{
+  margin: 0;
+  padding: 0;
+  margin-top: 0.3rem;
+}
+.heart svg{
+  margin: 10px 10px 0px 0px;
+  height: 5em;
+  width: 3em;
+}
